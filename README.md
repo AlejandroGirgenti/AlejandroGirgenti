@@ -52,9 +52,11 @@ I am a 20-year-old Systems Analyst graduate and full-stack developer, expanding 
 </span>
 
 ## Connect with me
-<a href="https://www.instagram.com/aleegirgenti_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="www.linkedin.com/in/alejandrogirgenti">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<span>
+  <a href="https://www.instagram.com/aleegirgenti_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alejandrogirgenti/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</span>
